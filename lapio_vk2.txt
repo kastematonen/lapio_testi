@@ -1,2 +1,3 @@
 tää on toka osa lapiota hubissa
 muokkaus GitHubin kautta
+uusi rivi ubuntussa
